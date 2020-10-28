@@ -1,0 +1,2 @@
+D:\lrrs\lr1\lr1\Debug\lr1.exe
+D:\lrrs\lr1\lr1\Debug\lr1.pdb

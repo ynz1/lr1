@@ -1,0 +1,4 @@
+﻿  lr1.cpp
+D:\lrrs\lr1\lr1\lr1.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\lrrs\lr1\lr1\lr1.cpp(8,26): warning C4101: arr3: неиспользованная локальная переменная
+  lr1.vcxproj -> D:\lrrs\lr1\lr1\Debug\lr1.exe
